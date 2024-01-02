@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GroceryStore/static/css/main.e710e6dd.css",
+    "main.js": "/GroceryStore/static/js/main.c7666643.js",
+    "static/media/fruits.jpg": "/GroceryStore/static/media/fruits.0f507b0b1f9aa3612ce7.jpg",
+    "index.html": "/GroceryStore/index.html",
+    "static/media/shopping-cart.svg": "/GroceryStore/static/media/shopping-cart.33ce5d1587bf4a7a971b.svg",
+    "main.e710e6dd.css.map": "/GroceryStore/static/css/main.e710e6dd.css.map",
+    "main.c7666643.js.map": "/GroceryStore/static/js/main.c7666643.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e710e6dd.css",
+    "static/js/main.c7666643.js"
+  ]
+}
