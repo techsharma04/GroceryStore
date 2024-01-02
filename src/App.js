@@ -11,7 +11,7 @@ import RegisterPage from "./pages/RegisterPage";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/GroceryStore'>
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/categories" element={<CategoryList />} />
